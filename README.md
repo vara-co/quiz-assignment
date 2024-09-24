@@ -7,6 +7,8 @@ by Laura Vara</h2><br/>
 
 ![image](https://github.com/user-attachments/assets/1b2eaca3-34bb-41f9-a02e-1971ad9746e0)
 
+Link to the live site: https://quiz-assignment-zeta.vercel.app/ 
+
 <h2>Index:</h2>
 
 1. Content of the repository
